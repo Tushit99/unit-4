@@ -1,0 +1,14 @@
+[
+    {   "name" : " Harry Potter" ,
+        "Publication date": "14 July 2007" ,
+        "description" : "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. "    
+    },   
+    {   "name" : " Game Of Thrones" ,
+        "Publication date" :  "August 1, 1996." ,
+        "description" : "A Game of Thrones is the first novel in A Song of Ice and Fire, a series of fantasy novels by the American author George R. R. Martin."  
+    },   
+    {  "name" : " The Invisible Man " ,
+        "Publication date" : "1897" ,
+        "description" : "The Invisible Man is a science fiction novel by H. G. Wells. Originally serialized in Pearson's Weekly in 1897, it was published as a novel the same year. "    
+    }    
+]   
